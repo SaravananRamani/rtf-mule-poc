@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- groupID must be the business group ID or ORGID -->
     <groupId>a21630cd-3902-41d9-8bb6-ccb827a707df</groupId>
-    <artifactId>rtf-sample-java17</artifactId>
+    <artifactId>mule-rtf-poc</artifactId>
     <!-- This version is immutable, need to bump for every deployment-->
     <version>1.0.0</version>
     <packaging>mule-application</packaging>
